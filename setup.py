@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='simple_exact_diagonalization_routines',
-      version='0.1',
+      version='0.11',
       description='A set of functions useful for quick exact diagonalization computations and checks.',
       url='https://github.com/marekgluza/simple_exact_diagonalization_routines',
       author='Marek Gluza',
